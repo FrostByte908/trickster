@@ -1,0 +1,100 @@
+[
+  {
+    "name": "PLAYER",
+    "score": 31,
+    "mode": "survival",
+    "map": "arena",
+    "date": "2026-10-22 08:12"
+  },
+  {
+    "name": "PLAYER",
+    "score": 28,
+    "mode": "time",
+    "map": "open",
+    "date": "2026-10-22 08:14"
+  },
+  {
+    "name": "PLAYER",
+    "score": 21,
+    "mode": "dm",
+    "map": "arena",
+    "date": "2026-10-22 08:11"
+  },
+  {
+    "name": "PLAYER",
+    "score": 19,
+    "mode": "allies",
+    "map": "dust2",
+    "date": "2026-10-27 09:26"
+  },
+  {
+    "name": "PLAYER",
+    "score": 12,
+    "mode": "competitive",
+    "map": "dust2",
+    "date": "2026-10-27 09:25"
+  },
+  {
+    "name": "PLAYERA",
+    "score": 11,
+    "mode": "time",
+    "map": "maze",
+    "date": "2026-10-22 08:08"
+  },
+  {
+    "name": "ттню",
+    "score": 7,
+    "mode": "competitive",
+    "map": "dust2",
+    "date": "2026-10-29 08:15"
+  },
+  {
+    "name": "PLAYER",
+    "score": 5,
+    "mode": "time",
+    "map": "arena",
+    "date": "2026-10-22 08:07"
+  },
+  {
+    "name": "PLAYER",
+    "score": 4,
+    "mode": "competitive",
+    "map": "dust2",
+    "date": "2026-10-29 08:16"
+  },
+  {
+    "name": "PLAYERAASDADSD",
+    "score": 3,
+    "mode": "dm",
+    "map": "arena",
+    "date": "2026-10-22 08:07"
+  },
+  {
+    "name": "PLAYER",
+    "score": 1,
+    "mode": "dm",
+    "map": "arena",
+    "date": "2026-10-22 08:06"
+  },
+  {
+    "name": "PLAYER",
+    "score": 0,
+    "mode": "dm",
+    "map": "arena",
+    "date": "2026-10-22 08:06"
+  },
+  {
+    "name": "PLAYER",
+    "score": 0,
+    "mode": "dm",
+    "map": "arena",
+    "date": "2026-10-22 08:06"
+  },
+  {
+    "name": "PLAYER",
+    "score": 0,
+    "mode": "competitive",
+    "map": "dust2",
+    "date": "2026-10-29 08:14"
+  }
+]
